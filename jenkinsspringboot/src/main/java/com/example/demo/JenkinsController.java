@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class JenkinsController {
 	@RequestMapping(value="/")
 	public String jen() {
-		return "welcome to Jenkins cicd continuous integretions devops ";
+		return "welcome to Jenkins cicd ghghghcontinuous integretions devops ";
 	}
 	
 }
